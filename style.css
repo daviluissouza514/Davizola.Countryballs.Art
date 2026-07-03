@@ -1,4 +1,4 @@
-.button{
+.Button{
 
     position:relative;
 
@@ -33,7 +33,7 @@
 
 }
 
-.button:hover{
+.Button:hover{
 
     transform:translateY(-5px);
 
@@ -44,7 +44,7 @@
 
 }
 
-.button i{
+.Button i{
 
     font-size:1.25rem;
 
