@@ -1,4 +1,4 @@
-# <img width="1489" height="177" alt="Davizola Countryballs Logo" src="./docs/logo.png" />
+# <img width="1489" height="177" alt="Davizola Countryballs Logo" src="https://github.com/daviluissouza514/Davizola.Countryballs.Art/blob/main/docs/logo.png" />
 
 Olá, tudo bem? Este readme pode ser importante no caso dos projetos do Scratch!
 
